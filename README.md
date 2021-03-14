@@ -18,3 +18,27 @@ The portfolio has been deployed at:
 
 ![Landing Page](./assets/images/landing-page.png)
 
+## Prompt 1
+
+![Landing Page](./assets/images/prompt-1.png)
+
+## Prompt 2
+
+![Landing Page](./assets/images/prompt-2.png)
+
+## Prompt 3
+
+![Landing Page](./assets/images/prompt-3.png)
+
+## Prompt 4
+
+![Landing Page](./assets/images/prompt-4.png)
+
+## Prompt 5
+
+![Landing Page](./assets/images/prompt-5.png)
+
+## Result example
+
+![Landing Page](./assets/images/example.png)
+
